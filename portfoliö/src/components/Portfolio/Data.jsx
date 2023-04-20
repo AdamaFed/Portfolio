@@ -16,23 +16,23 @@ export const projectsData = [
     id: 2,
     image: Work2,
     title: "Ecommerce Shop",
-    category: "app",
+    category: "web",
     href: "https://haul-shop.netlify.app"
   },
   {
     id: 3,
     image: Work3,
     title: "CinePlay",
-    category: "design",
+    category: "web",
     href: "https://cine-play.netlify.app"
   },
-  // {
-  //   id: 4,
-  //   image: Work4,
-  //   title: "App movil",
-  //   category: "app",
-  //   href: "https://www.google.de/?hl=de"
-  // },
+  {
+    id: 4,
+    image: Work4,
+    title: "CoinDesk",
+    category: "web",
+    href: "https://coin-desk.netlify.app"
+  },
   // {
   //   id: 5,
   //   image: Work5,
